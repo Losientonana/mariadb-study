@@ -1,11 +1,11 @@
 ## **8. 프로시저**
 
-<details><summary> 1. 회원</summary>
+<details><summary>1. 회원</summary>
 
 1. 회원가입을 통해 user entity에 회원이 등록되어야 한다.
     - 회원 가입
         - 기존 데이터  
-            (이미지)
+            ![스크린샷 2025-07-06 오후 3.04.16.png](attachment:a05a2389-eb7d-4348-b0b1-57997eb2096d:스크린샷_2025-07-06_오후_3.04.16.png)
         - 회원 추가 프로시저 생성  
             (이미지)
         - 프로시저 실행 결과  
@@ -44,7 +44,7 @@
 </details>
 
 
-<details><summary>### 2. 공연</summary>
+<details><summary>2. 공연</summary>
 
 1. 공연 목록/검색 (필터 조건: 공연명, 일정, 장소 등)
     - 사용자에 요구사항에 맞는 공연 목록 조회
@@ -70,7 +70,7 @@
 </details>
 
 
-<details><summary>### 3. 예매</summary>
+<details><summary>3. 예매</summary>
 
 1. 공연 예매 등록 (회원, 공연, 좌석, 예매일 등)
     - 예매 등록 프로시저  
@@ -103,7 +103,7 @@
 </details>
 
 
-<details><summary>### 4. 북마크</summary>
+<details><summary>4. 북마크</summary>
 
 1. 공연 북마크 등록
     - 프로시저  
@@ -126,7 +126,7 @@
 </details>
 
 
-<details><summary>### 5. 리뷰</summary>
+<details><summary>5. 리뷰</summary>
 
 1. 공연 리뷰 등록 (별점, 한줄평, 사진 등)
     - 프로시저  
@@ -165,7 +165,7 @@
 </details>
 
 
-<details><summary>### 6. 관심사</summary>
+<details><summary>6. 관심사</summary>
 
 - 회원의 관심 장르 등록/수정  
     - 변경 전  
@@ -186,7 +186,7 @@
 </details>
 
 
-<details><summary>### 7. 알림</summary>
+<details><summary>7. 알림</summary>
 
 - 알림 등록  
     - 변경 전  
@@ -229,7 +229,7 @@
 </details>
 
 
-<details><summary>### 8. 추천</summary>
+<details><summary>8. 추천</summary>
 
 1. 좋아하는 장르의 공연 추천  
     - 프로시저  
