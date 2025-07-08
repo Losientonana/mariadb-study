@@ -1,6 +1,6 @@
 ## **8. 프로시저**
 
-<details><summary>### 1. 회원</summary>
+<details><summary> 1. 회원</summary>
 
 1. 회원가입을 통해 user entity에 회원이 등록되어야 한다.
     - 회원 가입
